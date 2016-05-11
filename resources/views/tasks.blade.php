@@ -43,7 +43,7 @@
 
                     <!-- Table Headings -->
                     <thead>
-                        <th>Task ZZ</th>
+                        <th>Task ZZ 22</th>
                         <th>&nbsp;</th>
                     </thead>
 
